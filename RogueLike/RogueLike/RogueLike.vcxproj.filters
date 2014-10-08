@@ -16,13 +16,16 @@
     <Filter Include="Source Files\Traps">
       <UniqueIdentifier>{c1c55823-ecff-45f3-9a57-7dbf07ad5250}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Traps">
+      <UniqueIdentifier>{6e6e6b5b-1aba-461f-b7ea-5f06db0a8c5c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Trap.h">
-      <Filter>Header Files</Filter>
+      <Filter>Header Files\Traps</Filter>
     </ClInclude>
     <ClInclude Include="PoisonTrap.h">
-      <Filter>Header Files</Filter>
+      <Filter>Header Files\Traps</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
