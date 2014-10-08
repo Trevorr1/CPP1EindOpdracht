@@ -2,9 +2,10 @@
 #include <iostream>
 using namespace std;
 
-Opponent::Opponent(int level)
+Opponent::Opponent()//(int level)
 {
-	this->level = level;
+	//this->level = level;
+	level = 123;
 }
 
 

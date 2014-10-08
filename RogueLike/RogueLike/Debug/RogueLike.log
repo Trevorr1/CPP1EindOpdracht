@@ -1,28 +1,23 @@
-<<<<<<< HEAD
-﻿Build started 2-10-2014 21:34:02.
+﻿Build started 8-10-2014 21:57:49.
 Project "C:\Users\Huan\Documents\GitHub\CPP1EindOpdracht\RogueLike\RogueLike\RogueLike.vcxproj" on node 2 (Build target(s)).
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp Manager.cpp
+  Manager.cpp
+c:\users\huan\documents\github\cpp1eindopdracht\roguelike\roguelike\maplevel.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Main.cpp
+c:\users\huan\documents\github\cpp1eindopdracht\roguelike\roguelike\maplevel.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
 Link:
-  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Huan\Documents\GitHub\CPP1EindOpdracht\RogueLike\Debug\RogueLike.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Huan\Documents\GitHub\CPP1EindOpdracht\RogueLike\Debug\RogueLike.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Huan\Documents\GitHub\CPP1EindOpdracht\RogueLike\Debug\RogueLike.lib" /MACHINE:X86 Debug\Opponent.obj
-LINK : fatal error LNK1561: entry point must be defined
-Done Building Project "C:\Users\Huan\Documents\GitHub\CPP1EindOpdracht\RogueLike\RogueLike\RogueLike.vcxproj" (Build target(s)) -- FAILED.
-
-Build FAILED.
-
-Time Elapsed 00:00:05.22
-=======
-﻿Build started 2-10-2014 21:34:54.
-     1>Project "C:\Users\Trevorr\Documents\GitHub\CPP1EindOpdracht\RogueLike\RogueLike\RogueLike.vcxproj" on node 2 (Build target(s)).
-     1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
-         Main.cpp
-       Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Trevorr\Documents\GitHub\CPP1EindOpdracht\RogueLike\Debug\RogueLike.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Trevorr\Documents\GitHub\CPP1EindOpdracht\RogueLike\Debug\RogueLike.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Trevorr\Documents\GitHub\CPP1EindOpdracht\RogueLike\Debug\RogueLike.lib" /MACHINE:X86 Debug\Main.obj
-         Debug\PoisonTrap.obj
-         Debug\Trap.obj
-         RogueLike.vcxproj -> C:\Users\Trevorr\Documents\GitHub\CPP1EindOpdracht\RogueLike\Debug\RogueLike.exe
-     1>Done Building Project "C:\Users\Trevorr\Documents\GitHub\CPP1EindOpdracht\RogueLike\RogueLike\RogueLike.vcxproj" (Build target(s)).
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Huan\Documents\GitHub\CPP1EindOpdracht\RogueLike\Debug\RogueLike.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Huan\Documents\GitHub\CPP1EindOpdracht\RogueLike\Debug\RogueLike.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Huan\Documents\GitHub\CPP1EindOpdracht\RogueLike\Debug\RogueLike.lib" /MACHINE:X86 Debug\EndEnemy.obj
+  Debug\MapLevel.obj
+  Debug\Manager.obj
+  Debug\Opponent.obj
+  Debug\Main.obj
+  Debug\PoisonTrap.obj
+  Debug\Trap.obj
+  RogueLike.vcxproj -> C:\Users\Huan\Documents\GitHub\CPP1EindOpdracht\RogueLike\Debug\RogueLike.exe
+Done Building Project "C:\Users\Huan\Documents\GitHub\CPP1EindOpdracht\RogueLike\RogueLike\RogueLike.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.78
->>>>>>> origin/master
+Time Elapsed 00:00:02.63

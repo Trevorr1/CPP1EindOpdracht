@@ -2,7 +2,7 @@
 class Opponent
 {
 public:
-	Opponent(int a);
+	Opponent();// (int a);
 	~Opponent();
 
 	int level;
