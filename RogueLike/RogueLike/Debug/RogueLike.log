@@ -1,3 +1,15 @@
+<<<<<<< HEAD
+﻿Build started 2-10-2014 21:34:02.
+Project "C:\Users\Huan\Documents\GitHub\CPP1EindOpdracht\RogueLike\RogueLike\RogueLike.vcxproj" on node 2 (Build target(s)).
+Link:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Huan\Documents\GitHub\CPP1EindOpdracht\RogueLike\Debug\RogueLike.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Huan\Documents\GitHub\CPP1EindOpdracht\RogueLike\Debug\RogueLike.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Huan\Documents\GitHub\CPP1EindOpdracht\RogueLike\Debug\RogueLike.lib" /MACHINE:X86 Debug\Opponent.obj
+LINK : fatal error LNK1561: entry point must be defined
+Done Building Project "C:\Users\Huan\Documents\GitHub\CPP1EindOpdracht\RogueLike\RogueLike\RogueLike.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:05.22
+=======
 ﻿Build started 2-10-2014 21:34:54.
      1>Project "C:\Users\Trevorr\Documents\GitHub\CPP1EindOpdracht\RogueLike\RogueLike\RogueLike.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
@@ -13,3 +25,4 @@
 Build succeeded.
 
 Time Elapsed 00:00:00.78
+>>>>>>> origin/master
