@@ -10,16 +10,8 @@
       <Platform>Win32</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="EndEnemy.h" />
-    <ClInclude Include="Opponent.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="EndEnemy.cpp" />
-    <ClCompile Include="Opponent.cpp" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{80FFC0DA-2C87-430F-B3CD-23257CBB7D39}</ProjectGuid>
+    <ProjectGuid>{105A6CDD-4EEE-4B6A-921F-A07EA8CD8ACC}</ProjectGuid>
     <RootNamespace>RogueLike</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -55,8 +47,6 @@
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <SubSystem>
-      </SubSystem>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -73,18 +63,19 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
-<<<<<<< HEAD
-=======
   <ItemGroup>
-    <ClInclude Include="PoisonTrap.h" />
-    <ClInclude Include="Trap.h" />
+    <ClInclude Include="..\..\RogueLike - Copy\RogueLike\EndEnemy.h" />
+    <ClInclude Include="..\..\RogueLike - Copy\RogueLike\Opponent.h" />
+    <ClInclude Include="..\..\RogueLike - Copy\RogueLike\PoisonTrap.h" />
+    <ClInclude Include="..\..\RogueLike - Copy\RogueLike\Trap.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Main.cpp" />
-    <ClCompile Include="PoisonTrap.cpp" />
-    <ClCompile Include="Trap.cpp" />
+    <ClCompile Include="..\..\RogueLike - Copy\RogueLike\EndEnemy.cpp" />
+    <ClCompile Include="..\..\RogueLike - Copy\RogueLike\Main.cpp" />
+    <ClCompile Include="..\..\RogueLike - Copy\RogueLike\Opponent.cpp" />
+    <ClCompile Include="..\..\RogueLike - Copy\RogueLike\PoisonTrap.cpp" />
+    <ClCompile Include="..\..\RogueLike - Copy\RogueLike\Trap.cpp" />
   </ItemGroup>
->>>>>>> origin/master
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
